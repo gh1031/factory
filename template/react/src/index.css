@@ -1,0 +1,13 @@
+.box {
+  overflow: hidden;
+}
+
+.box .img {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.box .text {
+  // margin-left: 100px;
+}
